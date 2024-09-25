@@ -1,5 +1,9 @@
 <a name="top"></a>
 
+## **🥷 Yuurei** 
+
+🔥**Step into the shadows of medieval Japan as Yuurei, a mysterious lone warrior, on a path of vengeance, discovery, and transcendence. Inspired by FromSoftware’s Sekiro: Shadows Die Twice, Yuurei captures the essence of a brutal and unforgiving world in a beautifully crafted 2D hack-and-slash experience.**🔥
+
 [![Team](https://img.shields.io/badge/Team-Vitrify-FF4500)]
 [![Engine](https://img.shields.io/badge/GameMaker-Studio_2-239120)](https://gamemaker.io/en)
 [![Platform](https://img.shields.io/badge/platform-PC%20%7C%20Web%20%7C%20Mobile-brightgreen)]
@@ -8,8 +12,6 @@
 [![Share](https://img.shields.io/badge/share-Twitter-1DA1F2)](https://twitter.com/intent/tweet?text=Check%20out%20Yuurei%20on%20GitHub%3A%20https://github.com/YuureiGame)
 [![Share](https://img.shields.io/badge/share-LinkedIn-0A66C2)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/YuureiGame)
 [![Share](https://img.shields.io/badge/share-Reddit-FF4500)](https://reddit.com/submit?url=https://github.com/YuureiGame&title=Check%20out%20Yuurei)
-
-🔥 **Step into the world of medieval Japan and conquer your enemies in 'Yuurei'—an intense 2D hack-and-slash adventure.** 🔥
 
 ## Table of Contents
 - [🎮 About](#about)
@@ -69,4 +71,6 @@ Game Development: **Vitrify Team**
 - **Shreyan Nayak**
 
 Special Thanks: [itch.io](itch.io) for the amazing assets and [HeartBeast](https://www.youtube.com/@uheartbeast) for the comprehensive tutorials that brought **Yuurei** to life.
+
+
 [Back to top](#top) 
