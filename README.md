@@ -51,9 +51,11 @@ A collection of inspiring visuals that guided the art and design of **Yuurei**.
 
 ### **Basic Controls**:
 - **Move**: A/D
-- **Attack**: Left Mouse Button
+- **Attack**: J
+- **Thrust Attack**: K
+- **Dash**: Shift
 - **Block**: Right Mouse Button
-- **Dodge**: Shift
+- **Dodge**: 
 - **Interact**: F
 
 **Key Mechanics**:
