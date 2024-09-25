@@ -44,7 +44,7 @@ Built using **GameMaker**, known for its powerful tools and ease in 2D game deve
 **Mood Board**
 A collection of inspiring visuals that guided the art and design of **Yuurei**.
 - Figma: [Mood Board](https://www.figma.com/design/Xn1Y48vdUuQCY0uOy6cqQR/Yuurei?node-id=0-1&t=IWubElvdb9oosar4-1)
-
+- Assets: [Google-Drive](https://drive.google.com/drive/folders/17UsoKVgWOMJQyH7XGWQ1_iCv4PwrAlUa?usp=sharing)
 ---
 
 ## 🛠️ How to Play <a name="how-to-play"></a>
