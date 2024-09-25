@@ -2,8 +2,6 @@
 
 ## **🥷 Yuurei** 
 
-**🔥Step into the shadows of medieval Japan as Yuurei, a mysterious lone warrior, on a path of vengeance, discovery, and transcendence. Inspired by FromSoftware’s Sekiro: Shadows Die Twice, Yuurei captures the essence of a brutal and unforgiving world in a beautifully crafted 2D hack-and-slash experience.🔥**
-
 [![Team](https://img.shields.io/badge/Team-Vitrify-FF4500)]
 [![Engine](https://img.shields.io/badge/GameMaker-Studio_2-239120)](https://gamemaker.io/en)
 [![Platform](https://img.shields.io/badge/platform-PC%20%7C%20Web%20%7C%20Mobile-brightgreen)]
